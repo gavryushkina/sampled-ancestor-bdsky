@@ -1,0 +1,5 @@
+<addon name='SABDSKY' version='1.0.0'>
+	<depends on='beast2' atleast='2.4'/>
+    <depends on='SA' atleast='1.1.7'/>
+	<depends on='BDSKY' atleast='1.3.3'/>
+</addon>
